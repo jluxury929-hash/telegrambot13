@@ -1,7 +1,9 @@
-numpy
+python-telegram-bot==20.7
 requests
 httpx
+numpy
 python-dotenv
-python-telegram-bot==20.7
 web3
 eth-account
+pandas
+py-clob-client
