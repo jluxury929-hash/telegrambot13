@@ -1,5 +1,7 @@
+numpy
 requests
-python-telegram-bot
+httpx
+python-telegram-bot==20.7
 web3
 eth-account
-httpx
+pandas
